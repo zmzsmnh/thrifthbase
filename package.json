@@ -1,0 +1,14 @@
+{
+  "name": "thrift-hbase",
+  "version": "0.0.0",
+  "description": "A Hbase connector library for Node.js through thrift",
+  "author": {
+    "name": "Meizan Zheng",
+    "email": "zmzsmnh@gmail.com"
+  },
+  "main": "./lib/index",
+  "dependencies": {
+  	"thrift": "0.9.x",
+  	"hbase": "0.1.x"
+  }
+}
