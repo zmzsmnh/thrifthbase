@@ -9,6 +9,7 @@
   "main": "./lib/index",
   "dependencies": {
   	"thrift": "0.9.x",
-  	"hbase": "0.1.x"
+  	"hbase": "0.1.x",
+    "generic-pool": "2.1.*"
   }
 }
